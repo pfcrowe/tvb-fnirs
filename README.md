@@ -1,6 +1,6 @@
 # [fNIRS and EEG-fNIRS (Kernel Flow) models for The Virtual Brain (TVB)](https://summerofcode.withgoogle.com/programs/2022/projects/5Q2vnqyX)
 
-Supervisor: [John Griffiths](https://github.com/JohnGriffiths) @ [Krembil Centre for Neuroinformatics/CAMH](https://camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics)
+Supervisor: [Dr. John D. Griffiths](https://github.com/JohnGriffiths) @ [Krembil Centre for Neuroinformatics/CAMH](https://camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics)
 
 Organisation: [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org)
 
