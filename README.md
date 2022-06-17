@@ -1,5 +1,4 @@
-# gsoc-tvb-fnirs
-[GSoC 2022 INCF project 7.1: fNIRS and EEG-fNIRS (Kernel Flow) models for The Virtual Brain](https://summerofcode.withgoogle.com/programs/2022/projects/5Q2vnqyX)
+# [fNIRS and EEG-fNIRS (Kernel Flow) models for The Virtual Brain](https://summerofcode.withgoogle.com/programs/2022/projects/5Q2vnqyX)
 
 Supervisor: [John Griffiths](https://github.com/JohnGriffiths) @ [Krembil Centre for Neuroinformatics/CAMH](https://camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics)
 
