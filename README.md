@@ -18,7 +18,7 @@ The aim of this GSoC project will be to build out the modelling and analysis cap
  
  ## Background
  
-fNIRS enables the observation of haemodynamic responses, providing an indirect measure of brain activity via neurovascular coupling similar to the BOLD repsonse,  however the technology is different from magnetic resonance imaging. fNIRS data is collected from a subject and recorded at channels, intermediary locations between a source, which emits near-infrared light, and a detector, which retrieves it. Hemoglobin dependent differences in light absorption are detected at different wavelengths and measure changes in oxyhemoglobin (HbO) and deoxyhemoglobin (HbR) concentration in the blood. fNITS optodes are mounted in a montage arrangement on the subjects head, traditionally using a fitted cap. The Kernel Flow is unique as a next-generation noninvasive device enabling mobile combined electrophysiological and haemodynamic functional analysis via EEG and time domain fNIRS (TD-fNIRS).
+fNIRS enables the observation of haemodynamic responses, providing an indirect measure of brain activity via neurovascular coupling similar to the BOLD repsonse,  however the technology is different from magnetic resonance imaging. fNIRS data is collected from a subject and recorded at channels, intermediary locations between a source, which emits near-infrared light, and a detector, which retrieves it. Hemoglobin dependent differences in light absorption are detected at different wavelengths and measure changes in oxyhemoglobin (HbO) and deoxyhemoglobin (HbR) concentration in the blood. fNITS optodes are mounted in a montage arrangement on the subjects head, traditionally using a fitted cap. The Kernel Flow (Ban et al., 2021) is unique as a next-generation noninvasive device enabling mobile combined electrophysiological and haemodynamic functional analysis via EEG and time domain fNIRS (TD-fNIRS).
 
 <div align="center">
 <img width="468" alt="The TVB Hybrid Modeling Framework (Schirner et al. 2018, Fig. 1)" src="https://user-images.githubusercontent.com/49303905/174487649-b99d63a8-a2cf-4393-bdad-a2baf99e3a94.png">
@@ -45,10 +45,10 @@ The reduced Wong-Wang Neural Mass Model (TVB course 2020/21)
 </div>
 
 ### Key References
+- Ban, H. Y., Barrett, G. M., Borisevich, A., Chaturvedi, A., Dahle, J. L., Dehghani, H., ... & Zhu, Z. (2021, March). Kernel Flow: a high channel count scalable TD-fNIRS system. In Integrated Sensors for Biological and Neural Sensing (Vol. 11663, pp. 24-42). SPIE.
  - Schirner, M., McIntosh, A. R., Jirsa, V., Deco, G., & Ritter, P. (2018). Inferring multi-scale neural mechanisms with brain network modelling. Elife, 7, e28927.
  - Schirner, M., Domide, L., Perdikis, D., Triebkorn, P., Stefanovski, L., Pai, R., ... & Ritter, P. (2022). Brain simulation as a cloud service: The Virtual Brain on EBRAINS. NeuroImage, 251, 118973.
  - Tak, S., Kempny, A., Friston, K. J., Leff, A. P., & Penny, W. D. (2015). Dynamic causal modelling for functional near-infrared spectroscopy. Neuroimage, 111, 338-349.
-
 
 
 
