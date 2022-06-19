@@ -1,0 +1,1 @@
+In TVB different monitors for various modalities are specified as classes contained in the monitors.py file. These enable the measurement of simulation data, and modality specific monitors can operate on input to produce data according with the relevant physical measurement process. 
