@@ -1,3 +1,5 @@
+# Implementation Roadmap
+
 In TVB different monitors for various modalities are specified as classes contained in the `monitors.py` file. These enable the measurement of simulation data, and modality specific monitors can operate on input to produce data according with the relevant physical measurement process. 
 
 ```
@@ -128,3 +130,6 @@ class EEG(Projection):
                              title=' ' + self.__class__.__name__)
 ```
 From `monitors.py`
+
+### Reference
+ - Tak, S., Kempny, A., Friston, K. J., Leff, A. P., & Penny, W. D. (2015). Dynamic causal modelling for functional near-infrared spectroscopy. Neuroimage, 111, 338-349.
