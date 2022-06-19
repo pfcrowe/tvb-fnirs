@@ -44,6 +44,9 @@ There are a variety of specific neural models and more general neural model type
 The reduced Wong-Wang Neural Mass Model (TVB course 2020/21)
 </div>
 
+## Roadmap
+[View here](https://github.com/pfcrowe/gsoc-tvb-fnirs/blob/main/ROADMAP.md) 
+
 ### Key References
 - Ban, H. Y., Barrett, G. M., Borisevich, A., Chaturvedi, A., Dahle, J. L., Dehghani, H., ... & Zhu, Z. (2021, March). Kernel Flow: a high channel count scalable TD-fNIRS system. In Integrated Sensors for Biological and Neural Sensing (Vol. 11663, pp. 24-42). SPIE.
  - Schirner, M., McIntosh, A. R., Jirsa, V., Deco, G., & Ritter, P. (2018). Inferring multi-scale neural mechanisms with brain network modelling. Elife, 7, e28927.
